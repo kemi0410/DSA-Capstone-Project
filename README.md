@@ -31,8 +31,8 @@ My name is Ogunbadejo Olukemi, and I am a student in The Incubator Hub's Digital
  - Dataset: Contains the Original data and cleaned Excel data
  - Charts: Screenshot of Visualization
 ## Visuals  
- - https://github.com/kemi0410/DSA-Capstone-Project/blob/main/Dashboard%20.xlsx
- - https://github.com/kemi0410/DSA-Capstone-Project/blob/main/PivotTables%201.xlsx
+ -[Download the dashboard excel file] (https://github.com/kemi0410/DSA-Capstone-Project/blob/main/Dashboard%20.xlsx)
+ -[Download the dashboard excel file] (https://github.com/kemi0410/DSA-Capstone-Project/blob/main/PivotTables%201.xlsx)
 ## Tools Used
  - Excel Formulas
  - Pivot Tables.
