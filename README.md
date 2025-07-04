@@ -32,9 +32,7 @@ My name is Ogunbadejo Olukemi, and I am a student in The Incubator Hub's Digital
  - Charts: Screenshot of Visualization
 ## Visuals  
  - https://github.com/kemi0410/DSA-Capstone-Project/blob/main/Dashboard%20.xlsx
- - 
-
-
+ - https://github.com/kemi0410/DSA-Capstone-Project/blob/main/PivotTables%201.xlsx
 ## Tools Used
  - Excel Formulas
  - Pivot Tables.
@@ -48,7 +46,7 @@ My name is Ogunbadejo Olukemi, and I am a student in The Incubator Hub's Digital
      High-rated Products (1-5) that are likely to receive the most satisfaction are receiving lower discounts than others, which may lead to dissatisfaction.
 - Recommendations:
     1. Offer better incentives to high-rated products to retain and  upsell them
-    2. Understand why mid-rated products are getting more discounts. Are they more price sensitive or is this a reaction to poor discount?
+    2. Understand why mid-rated products are getting more discounts. Are they more price-sensitive, or is this a reaction to poor discounts?
   
  
     
