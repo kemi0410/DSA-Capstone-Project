@@ -30,5 +30,23 @@ My name is Ogunbadejo Olukemi, and I am a student in The Incubator Hub's Digital
 ## Project Structure
  - Dataset: Contains the Original data and cleaned Excel data
  - Charts: Screenshot of Visualization
-## Visuals
+## Visuals  
+
+
+## Tools Used
+ - Excel Formulas
+ - Pivot Tables.
+ - Charts (Column bar charts and Clustered bar charts)
+ - Slicers
+## Outcome
+- Observations:
+    1. From the Rating to Discount chart, Product with moderate ratings (1-3) received highest discount of 67%
+    2. High rated Products received (1-5) received less discount of 48% than even low rated ones
+- Concerns:
+     High rated Products (1-5) that are likely the most satisfied are receiving lower discount than others, this may lead to dissatisfaction.
+- Recommendations:
+    1. Offer better incentives to high rated product to retain and  upsell them
+    2. Understand why mid rated product are getting more discounts. Are they more price sensitive or is this a reactive to poor discount.
+  
+ 
     
