@@ -40,13 +40,13 @@ My name is Ogunbadejo Olukemi, and I am a student in The Incubator Hub's Digital
  - Slicers
 ## Outcome
 - Observations:
-    1. From the Rating to Discount chart, Product with moderate ratings (1-3) received highest discount of 67%
-    2. High rated Products received (1-5) received less discount of 48% than even low rated ones
+    1. From the Rating to Discount chart, Products with moderate ratings (1-3) received the highest discount of 67%
+    2. High-rated Products received (1-5) received less discount of 48% than even low-rated ones
 - Concerns:
-     High rated Products (1-5) that are likely the most satisfied are receiving lower discount than others, this may lead to dissatisfaction.
+     High-rated Products (1-5) that are likely to receive the most satisfaction are receiving lower discounts than others, which may lead to dissatisfaction.
 - Recommendations:
-    1. Offer better incentives to high rated product to retain and  upsell them
-    2. Understand why mid rated product are getting more discounts. Are they more price sensitive or is this a reactive to poor discount.
+    1. Offer better incentives to high-rated products to retain and  upsell them
+    2. Understand why mid-rated products are getting more discounts. Are they more price sensitive or is this a reaction to poor discount?
   
  
     
