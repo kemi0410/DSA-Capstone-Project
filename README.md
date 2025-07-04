@@ -52,6 +52,8 @@ My name is Ogunbadejo Olukemi, and I am a student in The Incubator Hub's Digital
 - Recommendations:
     1. Offer better incentives to high-rated products to retain and  upsell them
     2. Understand why mid-rated products are getting more discounts. Are they more price-sensitive, or is this a reaction to poor discounts?
+ ## Contact
+  - For questions or collaborations [ijeomahkemi@gmail.com](mail to : ijeomahkemi@gmail.com)
   
  
     
