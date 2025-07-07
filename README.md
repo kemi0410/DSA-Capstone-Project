@@ -32,7 +32,8 @@ My name is Ogunbadejo Olukemi, and I am a student in The Incubator Hub's Digital
  - Charts: Screenshot of Visualization
 ## Visuals  
  -[Download the dashboard excel file] (https://github.com/kemi0410/DSA-Capstone-Project/blob/main/Dashboard%20.xlsx)
- -[Download the dashboard excel file] (https://github.com/kemi0410/DSA-Capstone-Project/blob/main/PivotTables%201.xlsx)
+ [Download the dashboard excel file] (https://github.com/kemi0410/DSA-Capstone-Project/blob/main/PivotTables%201.xlsx)
+ 
  - [image](https://github.com/user-attachments/assets/b7b69467-df4d-4518-9498-155a3c71d411)
  - [image](https://github.com/user-attachments/assets/f1dcbd5f-d1ab-46ac-b933-e5d073d60b54)
 
